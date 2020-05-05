@@ -4,6 +4,9 @@
 * only Admin site can add new devices in apllication.
 * use a picaso for handling Images.
 * Firebase database is used.
+## Posts 
+![](/post.jpg)
 
-![] ()
+## Post Details.
+![](/details.jpg)
 
